@@ -1,0 +1,9 @@
+C:\Users\Riccardo\PROSJEKTER\LIBRARIES\RikardsGenericRepositoryLib\RGRL\bin\Debug\netcoreapp3.1\RGRL.deps.json
+C:\Users\Riccardo\PROSJEKTER\LIBRARIES\RikardsGenericRepositoryLib\RGRL\bin\Debug\netcoreapp3.1\RGRL.dll
+C:\Users\Riccardo\PROSJEKTER\LIBRARIES\RikardsGenericRepositoryLib\RGRL\bin\Debug\netcoreapp3.1\RGRL.pdb
+C:\Users\Riccardo\PROSJEKTER\LIBRARIES\RikardsGenericRepositoryLib\RGRL\obj\Debug\netcoreapp3.1\RGRL.csprojAssemblyReference.cache
+C:\Users\Riccardo\PROSJEKTER\LIBRARIES\RikardsGenericRepositoryLib\RGRL\obj\Debug\netcoreapp3.1\RGRL.AssemblyInfoInputs.cache
+C:\Users\Riccardo\PROSJEKTER\LIBRARIES\RikardsGenericRepositoryLib\RGRL\obj\Debug\netcoreapp3.1\RGRL.AssemblyInfo.cs
+C:\Users\Riccardo\PROSJEKTER\LIBRARIES\RikardsGenericRepositoryLib\RGRL\obj\Debug\netcoreapp3.1\RGRL.dll
+C:\Users\Riccardo\PROSJEKTER\LIBRARIES\RikardsGenericRepositoryLib\RGRL\obj\Debug\netcoreapp3.1\RGRL.pdb
+C:\Users\Riccardo\PROSJEKTER\LIBRARIES\RikardsGenericRepositoryLib\RGRL\obj\Debug\netcoreapp3.1\RGRL.csproj.CoreCompileInputs.cache
