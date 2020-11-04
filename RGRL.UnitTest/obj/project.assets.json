@@ -5061,11 +5061,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Riccardo\\PROSJEKTER\\LIBRARIES\\RikardsGenericRepositoryLib\\RGRL.UnitTest\\RGRL.UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\Riccardo\\Prosjekter\\RikardsGenericRepositoryLib\\RGRL.UnitTest\\RGRL.UnitTest.csproj",
       "projectName": "RGRL.UnitTest",
-      "projectPath": "C:\\Users\\Riccardo\\PROSJEKTER\\LIBRARIES\\RikardsGenericRepositoryLib\\RGRL.UnitTest\\RGRL.UnitTest.csproj",
+      "projectPath": "C:\\Users\\Riccardo\\Prosjekter\\RikardsGenericRepositoryLib\\RGRL.UnitTest\\RGRL.UnitTest.csproj",
       "packagesPath": "C:\\Users\\Riccardo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Riccardo\\PROSJEKTER\\LIBRARIES\\RikardsGenericRepositoryLib\\RGRL.UnitTest\\obj\\",
+      "outputPath": "C:\\Users\\Riccardo\\Prosjekter\\RikardsGenericRepositoryLib\\RGRL.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Riccardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5081,8 +5081,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Riccardo\\PROSJEKTER\\LIBRARIES\\RikardsGenericRepositoryLib\\RGRL\\RGRL.csproj": {
-              "projectPath": "C:\\Users\\Riccardo\\PROSJEKTER\\LIBRARIES\\RikardsGenericRepositoryLib\\RGRL\\RGRL.csproj"
+            "C:\\Users\\Riccardo\\Prosjekter\\RikardsGenericRepositoryLib\\RGRL\\RGRL.csproj": {
+              "projectPath": "C:\\Users\\Riccardo\\Prosjekter\\RikardsGenericRepositoryLib\\RGRL\\RGRL.csproj"
             }
           }
         }
@@ -5124,7 +5124,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

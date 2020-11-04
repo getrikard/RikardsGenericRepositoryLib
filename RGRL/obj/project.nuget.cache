@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3XkBYX4sjSUFK/Gr/J5bG/UHsxC1B5Y230qudl4KS+ljZHyXqVqPldmuuUUaiGC3rWR5u4JsqIz3qRTQct1JDg==",
+  "dgSpecHash": "ZTuIX71DeuunydBSaCBmFhFDTjFQGQmGcWR66i2mjOHY2hhNjOmE9InXHHlj0fD7h6/dLCEtN0wS1mWxUYIl7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Riccardo\\PROSJEKTER\\LIBRARIES\\RikardsGenericRepositoryLib\\RGRL\\RGRL.csproj",
+  "projectFilePath": "C:\\Users\\Riccardo\\Prosjekter\\RikardsGenericRepositoryLib\\RGRL\\RGRL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Riccardo\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
     "C:\\Users\\Riccardo\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
