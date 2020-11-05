@@ -19,17 +19,16 @@ namespace RGRL
 
         public async Task<int> Create(T obj)
         {
-            var type = typeof(T);
-            var properties = type.GetProperties();
-
-            var sql = $"INSERT INTO {type.Name} ({GetParams(properties)}) VALUES ({GetParams(properties, includeAt:true)})";
+            var t = typeof(T);
+            var sql = $"INSERT INTO [{t.Name}] ({GetParams(t)}) VALUES ({GetParams(t, includeAt:true)})";
 
             return await _sqlConnection.ExecuteAsync(sql, obj);
         }
 
-        private static string GetParams(IEnumerable<PropertyInfo> propertyInfos, bool includeAt = false)
+        private static string GetParams(Type t, bool includeAt = false)
         {
-            return string.Join(',', propertyInfos.Select(p => (includeAt ? "@" : "") + p.Name));
+            var properties = t.GetProperties();
+            return string.Join(',', properties.Select(p => (includeAt ? "@" : "") + p.Name));
         }
     }
 }
